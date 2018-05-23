@@ -1,3 +1,7 @@
+## pelias-mergeable
+
+**Note:** This package is deprecated. Use Lodash [merge](https://lodash.com/docs/4.17.10#merge) or [assign](https://lodash.com/docs/4.17.10#assign)
+
 ## Installation
 
 [![Greenkeeper badge](https://badges.greenkeeper.io/pelias/mergeable.svg)](https://greenkeeper.io/)
